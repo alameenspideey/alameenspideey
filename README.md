@@ -10,7 +10,6 @@ Web Developer and Data Scientist
 * ✉️  You can contact me at [inuwaaminuaminu225@gmail.com](mailto:inuwaaminuaminu225@gmail.com)
 * 🧠  I'm learning Python for Data Sciece.
 * 🤝  I'm open to collaborating on to collaborating on projects to gain experience.
-**alameenspideey/alameenspideey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
