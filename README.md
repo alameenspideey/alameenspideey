@@ -1,13 +1,15 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aminu Aminu Inuwa
+=========================================================================================================================================
+
+Web Developer and Data Scientist
+--------------------------------
+
 🚀 Aspiring Data Scientist | 🌐 Website Developer | 🐍 Python
 
-Welcome to my GitHub profile! I'm passionate about leveraging data to derive meaningful insights. Currently, I'm on a learning journey, honing my skills in Python.
-
-🌍 I'm based in Nigeria
-✉️ You can contact me at inuwaaminuaminu225@gmail.com.
-🧠 I'm learning Python for Data Sciecne.
-🤝 I'm open to collaborating on projects to gain experience.
-
-<!--
+* 🌍  I'm based in Nigeria
+* ✉️  You can contact me at [inuwaaminuaminu225@gmail.com](mailto:inuwaaminuaminu225@gmail.com)
+* 🧠  I'm learning Python for Data Sciece.
+* 🤝  I'm open to collaborating on to collaborating on projects to gain experience.
 **alameenspideey/alameenspideey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
